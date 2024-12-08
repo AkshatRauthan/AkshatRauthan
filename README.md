@@ -4,7 +4,7 @@
 Welcome to my GitHub profile! 👋 I'm Akshat Rauthan, a passionate software developer and lifelong learner focused on building scalable web applications, exploring emerging technologies, and contributing to open-source projects.
 
 
-“Code is just like humor, it's bad if you have to explain it”
+*“Code is just like humor, it's bad if you have to explain it”*
 
 ---
 
