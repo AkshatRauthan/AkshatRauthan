@@ -16,15 +16,6 @@ Welcome to my GitHub profile! 👋 I'm Akshat Rauthan, a passionate software dev
 
 ---
 
-## 🛠️ Tech Stack & Tools  
-- **Frontend:** React.js, HTML, CSS, JS  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, MySQL  
-- **Version Control:** Git & GitHub  
-- **Other Tools:** Postman, Docker, JWT
-
----
-
 ## 🔥 What I’m Learning  
 - 🚀 **Advanced MERN Stack Development**  
 - ⚙️ **REST APIs & Microservices**  
