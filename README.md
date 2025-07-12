@@ -27,7 +27,7 @@ Welcome to my GitHub profile! 👋 I'm Akshat Rauthan, a passionate software dev
 - **LinkedIn** : [https://www.linkedin.com/in/akshat-rauthan-abba91214/](https://www.linkedin.com/in/akshat-rauthan-abba91214/)
 - **Leetcode** : [https://leetcode.com/Akshat_Rauthan/](https://leetcode.com/Akshat_Rauthan/)
 - **GitHub** : [https://github.com/AkshatRauthan/](https://github.com/AkshatRauthan/)
-- **Email Me** : [rauthanakshat2479@gmail.com](mailto:rauthanakshat2479@gmail.com)
+- **Email Me** : [akshatrauthan9433@gmail.com](mailto:akshatrauthan9433@gmail.com)
 
 ---
 
